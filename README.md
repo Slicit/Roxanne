@@ -24,9 +24,9 @@ A 3D PDF is available in /manual
 - 1x X_Carriage.STL
 - 2x X_End_Idler.STL
 - 1x X_Motor_Plate.STL
-- 3x YZ_Motor_Plate.STL (2x Z, 1x Y)
+- 2x Z_Motor_Plate.STL
 
-- ... More to go ... WIP.
+- ... More to go (or not) ... WIP.
 
 =======
 Thanks to:
